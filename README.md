@@ -1,4 +1,4 @@
-To use this advanced version:
+To use this version:
 
 Save as KaliLinux-Apache2-Service.py
 
